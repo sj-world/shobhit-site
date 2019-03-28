@@ -1,2 +1,2 @@
-document.write("ok");
+console.log("fine");
 
